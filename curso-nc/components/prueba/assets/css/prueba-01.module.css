@@ -1,0 +1,14 @@
+.div {
+    background-color: brown;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.div__contImg {
+    background-color: burlywood;
+    
+}
+
+.div__img {
+    width: 150px;
+}
